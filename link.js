@@ -14,6 +14,20 @@ generate.addEventListener("click", () =>{
             shorten_link.value = "Something Went Wrong!!";
         });
 });
+//tfy g oyugkbu k byukgb kubloygblo
+//tfy g oyugkbu k byukgb kubloygblo
+//tfy g oyugkbu k byukgb kubloygblo
+//tfy g oyugkbu k byukgb kubloygblo
+//tfy g oyugkbu k byukgb kubloygblo
+//tfy g oyugkbu k byukgb kubloygblo
+//tfy g oyugkbu k byukgb kubloygblo
+//tfy g oyugkbu k byukgb kubloygblo
+//tfy g oyugkbu k byukgb kubloygblo//tfy g oyugkbu k byukgb kubloygblo
+//tfy g oyugkbu k byukgb kubloygblo//tfy g oyugkbu k byukgb kubloygblo
+//tfy g oyugkbu k byukgb kubloygblo//tfy g oyugkbu k byukgb kubloygblo
+//tfy g oyugkbu k byukgb kubloygblo
+//tfy g oyugkbu k byukgb kubloygblo
+//tfy g oyugkbu k byukgb kubloygblo
 
 copy.addEventListener("click", () =>{
     navigator.clipboard.writeText(shorten_link.value);
